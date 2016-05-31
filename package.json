@@ -1,6 +1,6 @@
 {
-  "name": "listerfilesndirectories",
-  "version": "0.0.3",
+  "name": "filesndirectorieslister",
+  "version": "0.1.3",
   "description": "gg",
   "main": "filesNdirectoriesLister.js",
   "author": "Ronquillo, Dennis Sarmiento",
@@ -18,5 +18,6 @@
   "bugs": {
     "url": "https://github.com/denzcomtech/filesNdirectoriesLister/issues"
   },
-  "homepage": "https://github.com/denzcomtech/filesNdirectoriesLister#readme"
+  "homepage": "https://github.com/denzcomtech/filesNdirectoriesLister#readme",
+  "readme": "README.md"
 }
