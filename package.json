@@ -1,15 +1,14 @@
 {
-  "name": "filesndirectorieslister",
-  "version": "0.1.0",
+  "name": "listerfilesndirectories",
+  "version": "0.0.1",
   "description": "gg",
   "main": "filesNdirectoriesLister.js",
   "author": "Ronquillo, Dennis Sarmiento",
   "dependencies": {
     "fs-extra": "latest"
   },
-  "devDependencies": {},
   "scripts": {
-    "test": "node test.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
