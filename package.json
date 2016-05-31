@@ -9,7 +9,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "node filesNdirectoriesLister.js"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
