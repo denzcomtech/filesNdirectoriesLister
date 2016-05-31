@@ -1,0 +1,23 @@
+{
+  "name": "filesndirectorieslister",
+  "version": "0.0.1",
+  "description": "gg",
+  "main": "filesNdirectoriesLister.js",
+  "author": "Ronquillo, Dennis Sarmiento",
+  "dependencies": {
+    "fs-extra": "latest"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node filesNdirectoriesLister.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denzcomtech/filesNdirectoriesLister.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denzcomtech/filesNdirectoriesLister/issues"
+  },
+  "homepage": "https://github.com/denzcomtech/filesNdirectoriesLister#readme"
+}
