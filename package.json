@@ -1,7 +1,7 @@
 {
   "name": "filesndirectorieslister",
-  "version": "0.1.3",
-  "description": "gg",
+  "version": "0.1.5",
+  "description": "will update readme.md soon!!",
   "main": "filesNdirectoriesLister.js",
   "author": "Ronquillo, Dennis Sarmiento",
   "dependencies": {
@@ -19,5 +19,5 @@
     "url": "https://github.com/denzcomtech/filesNdirectoriesLister/issues"
   },
   "homepage": "https://github.com/denzcomtech/filesNdirectoriesLister#readme",
-  "readme": "README.md"
+  "readme": "will update readme.md soon!!"
 }
